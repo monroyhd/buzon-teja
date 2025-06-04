@@ -1,0 +1,8 @@
+Este es un documento de prueba número 1 para el buzón electrónico TEJA.
+
+Contenido del documento:
+- Fecha: 03/06/2025
+- Expediente: TEJA-001
+- Tipo: Documento PDF simulado
+
+Este archivo se usa para probar la funcionalidad de upload múltiple.

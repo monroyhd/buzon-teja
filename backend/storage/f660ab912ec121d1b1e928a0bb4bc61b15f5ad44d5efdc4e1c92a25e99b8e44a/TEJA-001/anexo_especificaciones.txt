@@ -1,0 +1,18 @@
+ANEXO - ESPECIFICACIONES
+
+Expediente: TEJA-001
+Archivo: anexo_especificaciones.txt
+
+ESPECIFICACIONES TÉCNICAS:
+1. Backend: Node.js + Express
+2. Base de datos: SQLite
+3. Frontend: EJS + Bootstrap
+4. Autenticación: JWT + bcrypt
+5. Upload: Multer
+
+ARCHIVOS ADJUNTOS:
+- documento1.txt
+- informe_tecnico.txt  
+- anexo_especificaciones.txt
+
+Todos los archivos pertenecen al mismo expediente para pruebas.

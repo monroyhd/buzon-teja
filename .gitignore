@@ -1,0 +1,66 @@
+# Dependencias de Node
+node_modules/
+*/node_modules/
+
+# Directorios de almacenamiento
+storage/
+*/storage/
+backend/storage/
+frontend/storage/
+
+# Archivos de base de datos
+*.db
+*.sqlite
+*.sqlite3
+backend/database/*.db
+
+# Variables de entorno
+.env
+.env.local
+.env.production
+*/.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Archivos de respaldo
+*.bak
+*.backup
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de build
+dist/
+build/
+
+# Archivos de prueba
+test_files/
+*.test.txt
+
+# Certificados y claves (por seguridad)
+*.pem
+*.key
+*.crt
+*.pfx
+
+# Archivos de configuración local
+config.local.js
+config.local.json

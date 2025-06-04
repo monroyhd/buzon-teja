@@ -1,0 +1,16 @@
+INFORME TÉCNICO - DOCUMENTO 2
+
+Proyecto: Buzón Electrónico TEJA
+Fecha: 03 de Junio de 2025
+Expediente: TEJA-001
+
+RESUMEN EJECUTIVO:
+- Sistema implementado correctamente
+- Base de datos funcionando
+- API endpoints operativos
+- Frontend responsive
+
+ESTADO: COMPLETADO
+
+---
+Este es un archivo de prueba para demostrar el upload múltiple de archivos.
