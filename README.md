@@ -177,4 +177,4 @@ CMD ["npm", "start"]
 
 ---
 
-**Desarrollado por el equipo TEJA** 🏢
+
